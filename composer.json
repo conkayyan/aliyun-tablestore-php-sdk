@@ -9,7 +9,6 @@
 	],
 	"type": "library",
 	"license": "MIT",
-	"minimum-stability": "dev",
 	"support" : {
 		"forum" : "http://bbs.aliyun.com/thread/226.html"
 	},
